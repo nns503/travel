@@ -1,0 +1,20 @@
+=== 스케줄 생성 API
+
+==== 1. Curl Request
+include::{snippets}/Integration/schedule/create-schedule/curl-request.adoc[]
+
+==== 2. HTTP Request
+include::{snippets}/Integration/schedule/create-schedule/http-request.adoc[]
+
+==== 3. HTTP Response
+include::{snippets}/Integration/schedule/create-schedule/http-response.adoc[]
+
+==== 4. HTTPIE Request
+include::{snippets}/Integration/schedule/create-schedule/httpie-request.adoc[]
+
+==== 5. Request Body
+include::{snippets}/Integration/schedule/create-schedule/request-body.adoc[]
+include::{snippets}/Integration/schedule/create-schedule/request-fields.adoc[]
+
+==== 6. Response Body
+include::{snippets}/Integration/schedule/create-schedule/response-body.adoc[]
